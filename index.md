@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Movement Permit 13033 Support Page
 
-You can use the [editor on GitHub](https://github.com/devapp365/permit_helper/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The application that helps you to create necessary SMS for your movements at 13033.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Fill in the required information, name and home address, which are stored locally on the device, and then select the reason for the move.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/devapp365/permit_helper/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+The message will be created automatically and sent to 13033.
+So simple and easy, get rid of paperwork and complicated SMS.
 
 ### Support or Contact
 
-Having ανυ trouble? [Contact support](mailto:devapp365@gmail.com) and we’ll help you sort it out.
+Having any trouble? [Contact support](mailto:devapp365@gmail.com) and we’ll help you sort it out.
